@@ -1,6 +1,6 @@
 # Dual-core_code
 
-The visitors can download the package directly can use it in MATLAB.
+The visitors can download the package directly and use it in MATLAB.
 
 Program pt_pu.m is used to calculate PT symmetry breaking. And Program eigg.m is to calculate eigenvalues.
 
