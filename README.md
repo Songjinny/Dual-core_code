@@ -24,7 +24,7 @@ the way for the study of linear and nonlinear phenomena in a dual-core planar wa
 potential and the related physical experimental designs.
 
 
-# Dual-core_code
+# Code
 
 Program pt_pu.m is used to calculate PT symmetry breaking. And Program eigg.m is to calculate eigenvalues.
 
