@@ -1,7 +1,10 @@
 
 
 # Description
-This code is used to address symmetry breaking bifurcations using modified squared-operator iteration method.
+This code is used to address symmetry breaking bifurcations using modified squared-operator iteration method in the ground-state and dipole-mode
+solitons of the system of one-dimensional linearly coupled nonlinear Schrodinger equations, modeling the
+propagation of light in a dual-core planar waveguide with the Kerr nonlinearity and two different types of PT -
+symmetric potential.
 
 # Abstract:
 We address symmetry breaking bifurcations (SBBs) in the ground-state (GS) and dipole-mode (DM)
